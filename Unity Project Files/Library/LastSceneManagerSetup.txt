@@ -1,0 +1,6 @@
+sceneSetups:
+- path: Assets/Scenes/ar foundation groundplane with objectplacement horizontal final
+    no mic.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
